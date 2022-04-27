@@ -18,7 +18,7 @@ const benny = {
 
 console.log("============ Question 3 ============")
 // Using dot notation, console.log the name and age of Benny
-console.log(benny.name);
+console.log(benny.name, benny.age);
 console.log("============ Question 4 ============")
 // Using dot notation, console.log any one of Benny's breeds
 console.log(benny.breeds[0]);
